@@ -1,0 +1,13 @@
+body{background-color: paleturquoise;}
+
+h1{color: rgb(230, 9, 9);
+
+
+}
+#nav {
+    color: white;
+    float: right;
+    font-size: 20px;
+    background-color: grey;
+    border-radius: 25px;
+    margin-top: 50px;}
